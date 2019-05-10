@@ -1,0 +1,60 @@
+H:\c#\Shop Management\Shop Management\bin\Debug\Shop Management.exe.config
+H:\c#\Shop Management\Shop Management\bin\Debug\Shop Management.exe
+H:\c#\Shop Management\Shop Management\bin\Debug\Shop Management.pdb
+H:\c#\Shop Management\Shop Management\bin\Debug\MetroFramework.Design.dll
+H:\c#\Shop Management\Shop Management\bin\Debug\MetroFramework.dll
+H:\c#\Shop Management\Shop Management\bin\Debug\MetroFramework.Fonts.dll
+H:\c#\Shop Management\Shop Management\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+H:\c#\Shop Management\Shop Management\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+H:\c#\Shop Management\Shop Management\obj\Debug\Shop Management.csprojResolveAssemblyReference.cache
+H:\c#\Shop Management\Shop Management\obj\Debug\Shop_Management.Login.resources
+H:\c#\Shop Management\Shop Management\obj\Debug\Shop_Management.Properties.Resources.resources
+H:\c#\Shop Management\Shop Management\obj\Debug\Shop_Management.Salesman.resources
+H:\c#\Shop Management\Shop Management\obj\Debug\Shop Management.csproj.GenerateResource.cache
+H:\c#\Shop Management\Shop Management\obj\Debug\Shop Management.csproj.CoreCompileInputs.cache
+H:\c#\Shop Management\Shop Management\obj\Debug\Shop Management.csproj.CopyComplete
+H:\c#\Shop Management\Shop Management\obj\Debug\Shop Management.exe
+H:\c#\Shop Management\Shop Management\obj\Debug\Shop Management.pdb
+H:\c#\Shop Management\Shop Management\obj\Debug\Shop_Management.Admin.resources
+H:\c#\Shop Management\Shop Management\obj\Debug\Shop_Management.AddSalesman.resources
+H:\c#\Shop Management\Shop Management\obj\Debug\Shop_Management.DeleteSalesman.resources
+H:\c#\Shop Management\Shop Management\obj\Debug\Shop_Management.UpdateSalesman.resources
+H:\c#\Shop Management\Shop Management\obj\Debug\Shop_Management.AddNewItem.resources
+H:\c#\Shop Management\Shop Management\obj\Debug\Shop_Management.UpdateItem.resources
+H:\c#\Shop Management\Shop Management\obj\Debug\Shop_Management.DeleteItem.resources
+H:\c#\Shop Management\Shop Management\bin\Debug\DataAccessLayer.dll
+H:\c#\Shop Management\Shop Management\bin\Debug\DataAccessLayer.pdb
+H:\c#\Shop Management\Shop Management\obj\Debug\Shop_Management.ShowSalesman.resources
+H:\c#\Shop Management\Shop Management\obj\Debug\Shop_Management.ShowProduct.resources
+H:\c#\Shop Management\Shop Management\obj\Debug\Shop_Management.Graph.resources
+H:\c#\Shop Management\Shop Management\obj\Debug\Shop_Management.Message.resources
+H:\c#\Shop Management\Shop Management\obj\Debug\Shop_Management.AdminInfo.resources
+C:\Users\HP\Downloads\Shop Management\Shop Management\bin\Debug\Shop Management.exe.config
+C:\Users\HP\Downloads\Shop Management\Shop Management\bin\Debug\Shop Management.exe
+C:\Users\HP\Downloads\Shop Management\Shop Management\bin\Debug\Shop Management.pdb
+C:\Users\HP\Downloads\Shop Management\Shop Management\bin\Debug\DataAccessLayer.dll
+C:\Users\HP\Downloads\Shop Management\Shop Management\bin\Debug\MetroFramework.Design.dll
+C:\Users\HP\Downloads\Shop Management\Shop Management\bin\Debug\MetroFramework.dll
+C:\Users\HP\Downloads\Shop Management\Shop Management\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\HP\Downloads\Shop Management\Shop Management\bin\Debug\DataAccessLayer.pdb
+C:\Users\HP\Downloads\Shop Management\Shop Management\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\HP\Downloads\Shop Management\Shop Management\obj\Debug\Shop Management.csprojResolveAssemblyReference.cache
+C:\Users\HP\Downloads\Shop Management\Shop Management\obj\Debug\Shop_Management.AddSalesman.resources
+C:\Users\HP\Downloads\Shop Management\Shop Management\obj\Debug\Shop_Management.AddNewItem.resources
+C:\Users\HP\Downloads\Shop Management\Shop Management\obj\Debug\Shop_Management.Admin.resources
+C:\Users\HP\Downloads\Shop Management\Shop Management\obj\Debug\Shop_Management.AdminInfo.resources
+C:\Users\HP\Downloads\Shop Management\Shop Management\obj\Debug\Shop_Management.DeleteItem.resources
+C:\Users\HP\Downloads\Shop Management\Shop Management\obj\Debug\Shop_Management.DeleteSalesman.resources
+C:\Users\HP\Downloads\Shop Management\Shop Management\obj\Debug\Shop_Management.Graph.resources
+C:\Users\HP\Downloads\Shop Management\Shop Management\obj\Debug\Shop_Management.Login.resources
+C:\Users\HP\Downloads\Shop Management\Shop Management\obj\Debug\Shop_Management.Message.resources
+C:\Users\HP\Downloads\Shop Management\Shop Management\obj\Debug\Shop_Management.Properties.Resources.resources
+C:\Users\HP\Downloads\Shop Management\Shop Management\obj\Debug\Shop_Management.Salesman.resources
+C:\Users\HP\Downloads\Shop Management\Shop Management\obj\Debug\Shop_Management.ShowProduct.resources
+C:\Users\HP\Downloads\Shop Management\Shop Management\obj\Debug\Shop_Management.ShowSalesman.resources
+C:\Users\HP\Downloads\Shop Management\Shop Management\obj\Debug\Shop_Management.UpdateSalesman.resources
+C:\Users\HP\Downloads\Shop Management\Shop Management\obj\Debug\Shop_Management.UpdateItem.resources
+C:\Users\HP\Downloads\Shop Management\Shop Management\obj\Debug\Shop Management.csproj.GenerateResource.Cache
+C:\Users\HP\Downloads\Shop Management\Shop Management\obj\Debug\Shop Management.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Shop Management\Shop Management\obj\Debug\Shop Management.exe
+C:\Users\HP\Downloads\Shop Management\Shop Management\obj\Debug\Shop Management.pdb

@@ -1,0 +1,5 @@
+H:\c#\Shop Management\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+H:\c#\Shop Management\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+H:\c#\Shop Management\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+H:\c#\Shop Management\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+H:\c#\Shop Management\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
